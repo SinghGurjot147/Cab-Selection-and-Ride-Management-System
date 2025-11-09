@@ -1,1 +1,2 @@
-# Cab-Selection-and-Ride-Management-System
+This is a simple, interactive Cab Matching System developed using C++ that models the basic logic of real-world ride-hailing platforms like Ola, Uber, and Rapido.
+The project focuses on applying Object-Oriented Programming (OOP) concepts using Passenger and Driver classes. It allows passengers to select the most suitable driver based on three strategies: nearest distance, highest rating, or lowest fare. Confirmed ride details are stored persistently using file handling (<fstream>) to maintain a ride history.
